@@ -34,6 +34,10 @@ body {
 .login-tarjeta p{
     font-size: 50px;
 }
+.login-tarjeta h4{
+    margin-bottom: 10px;
+    color: var(--text-dark);
+}
 
 /* Título Principal */
 h1 {
