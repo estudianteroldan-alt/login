@@ -31,8 +31,13 @@ body {
     padding: 20px;
     text-align: center;
 }
+
 .login-tarjeta p{
     font-size: 50px;
+}
+.login-tarjeta p a{
+        text-decoration: none;
+
 }
 
 .login-tarjeta h4{
@@ -90,6 +95,7 @@ h1 {
     margin-top: 5px;
     margin-bottom: 15px;
 }
+ 
 
 /* Checkbox Personalizado */
 .remember-me {
@@ -146,7 +152,7 @@ h1 {
 /* Enlace "Forgot?" */
 .forgot-link {
     color: var(--primary-purple);
-    text-decoration: none;
+    text-decoration: none;   
 }
 
 .forgot-link:hover {
@@ -174,4 +180,10 @@ h1 {
 
 .btn-login:active {
     transform: scale(0.99);
+}
+.icono p{
+    text-align: center;
+    
+    
+    
 }
